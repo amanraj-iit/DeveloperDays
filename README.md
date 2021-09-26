@@ -34,6 +34,12 @@ Click on QUESTION PAPERS to preview and download QUESTION PAPERS.
 
 ![WhatsApp Image 2021-09-25 at 6 09 00 AM](https://user-images.githubusercontent.com/77458628/134752159-1692f4d5-1e24-42e8-8557-5a077f056a19.jpeg)
 
+
+Click on Contact Us to preview and submit Queries or To be in Touch.
+
+![WhatsApp Image 2021-09-26 at 8 15 24 AM](https://user-images.githubusercontent.com/77458628/134791585-3bac8ed1-a25a-418a-85e3-a6e2b3a8bd4b.jpeg)
+
+
 Tools Used: HTML , CSS
 Powered by SAWO LABS
 Web Version:  v1.1
